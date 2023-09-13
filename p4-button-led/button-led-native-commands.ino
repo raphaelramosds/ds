@@ -6,7 +6,8 @@
  |
  | µControlador: Atmega328p
  |
- | Descrição: Implementado com comandos nativos do arduino UNO
+ | Descrição: O LED fica aceso enquanto um botão tiver
+ | pressionado. Implementado com comandos nativos do arduino
 */
 
 int btnPin = 9;

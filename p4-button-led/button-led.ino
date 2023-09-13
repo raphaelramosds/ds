@@ -6,7 +6,8 @@
  |
  | µControlador: Atmega328p
  |
- | Descrição: Implementado com comandos em C, manipulando 
+ | Descrição: O LED fica aceso enquanto um botão tiver
+ | pressionado. Implementado com comandos em C, manipulando 
  | registradores. 
  |
  | Consideração: Podemos ler/escrever nos pinos da porta x
