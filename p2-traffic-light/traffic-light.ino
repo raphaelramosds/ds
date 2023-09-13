@@ -1,13 +1,15 @@
 /**
  | --------------------------------------------------------
- | Projeto 1 - Semáforo
+ | Lista 1
  | --------------------------------------------------------
  | Autores: Raphael Ramos
  |
  | µControlador: Atmega328p
  |
- | Descrição: Implementado com comandos em C, manipulando 
- | registradores. Usour-se três pinos consecutivos para 
+ | Descrição: Semáforo implementado com comandos em C
+ | manipulando registradores. 
+ 
+ | Consideração: usou-se três pinos conse cutivos para
  | tirar proveito do deslocamentos da cadeia de bits
 */
 

@@ -1,3 +1,14 @@
+/**
+ | --------------------------------------------------------
+ | Lista 2
+ | --------------------------------------------------------
+ | Autores: Raphael Ramos
+ |
+ | µControlador: Atmega328p
+ |
+ | Descrição: Implementado com comandos nativos do arduino UNO
+*/
+
 int btnPin = 9;
 int ledPin = 13;
 int state = 0;

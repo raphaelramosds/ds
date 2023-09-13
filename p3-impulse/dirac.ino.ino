@@ -1,5 +1,15 @@
-// C++ code
-//
+/**
+ | --------------------------------------------------------
+ | Lab 1
+ | --------------------------------------------------------
+ | Autores: Raphael Ramos
+ |
+ | µControlador: Atmega2560
+ |
+ | Descrição: Impulso implementado com comandos em C 
+ | manipulando  registradores.
+*/
+
 void setup()
 {
   DDRH = 0x20; 
