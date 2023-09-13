@@ -1,10 +1,12 @@
-# Digital Systems labs
+# Laboratórios de Sistemas Digitais
 
-## Project 1 - Traffic Light
+[1] [Lab 0 - Pisca led](./p1-blink-led/)
 
-Design of a simple traffic light using Arduino UNO. Its setup can be seen below.
+[2] [Lista 1 - Portas de saída: semáforo](./p2-traffic-light/)
 
-![Project simulated on Tinkercad](./p1-traffic-light/img/assembly.png)
+[3] [Lab 1 - Impulso](./p3-impulse/)
 
-I've implemented this project following two approaches: a clean implementation using Atmega328p registers and another making use of Arduino native commands.
+[4] [Lista 2 - Portas de entrada: ligar LED com botão](./p4-button-led/)
+
+
 
