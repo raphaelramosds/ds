@@ -7,8 +7,8 @@
  | µControlador: Atmega328p
  |
  | Consideração: implementação feita com pull-out físico
- | e com sinais de interrupções para incrementar (INT0) e
- | resetar a contagem (INT1), ambas na borda de subida
+ | e com sinais de interrupções para incrementar (INT1) e
+ | resetar a contagem (INT0), ambas na borda de subida
 */
 
 // g = PB1
