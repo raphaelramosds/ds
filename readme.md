@@ -12,5 +12,9 @@
 
 [2] [Lista 2 - Portas de entrada](./p4-button-led/)
 
+[3] [Lista 3 - Portas de entrada e saída](./p5-disp-7-seg/)
+
+[4] [Lista 4 - Interrupção Externa](./p6-count-clicks/)
+
 
 
