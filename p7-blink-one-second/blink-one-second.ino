@@ -13,8 +13,6 @@
  |
  | Testouro = (TOP + 1)(prescale)(Tosc)
  |
- | Tosc : clock do ATmega2560
- |
  | Entao, obtive TOP + 1 = 62500 para 
  | 
  | Testouro = 1s = 1000 ms

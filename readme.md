@@ -18,5 +18,7 @@
 
 [5] [Lista 5 - Temporizadores](./p6-count-clicks/)
 
+- [Simulação](https://wokwi.com/projects/376521955438526465)
+
 
 
