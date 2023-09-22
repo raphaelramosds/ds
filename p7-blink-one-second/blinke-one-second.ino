@@ -22,6 +22,9 @@
  | Tosc = 16MHz
  |
  | TCTN1 leva 1s para contar ate OCR1A = 62500
+ |
+ | Note: nao utilizei Timer0 pois nao eh possivel contar
+ | ate 62500 com apenas 8 bits
 */
 
 #include <avr/io.h>
