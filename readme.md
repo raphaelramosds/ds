@@ -16,5 +16,7 @@
 
 [4] [Lista 4 - Interrupção Externa](./p6-count-clicks/)
 
+[5] [Lista 5 - Temporizadores](./p6-count-clicks/)
+
 
 
