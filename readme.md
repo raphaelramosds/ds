@@ -16,9 +16,13 @@
 
 [4] [Lista 4 - Interrupção Externa](./p6-count-clicks/)
 
-[5] [Lista 5 - Temporizadores](./p6-count-clicks/)
+[5] [Lista 5 - Temporizadores](./p7-count-clicks/)
 
 - [Simulação](https://wokwi.com/projects/376521955438526465)
+
+[6] [Lista 6 - PWM](./p8-change-led-intensity/)
+
+- [Simulação](https://wokwi.com/projects/376571749121043457)
 
 
 

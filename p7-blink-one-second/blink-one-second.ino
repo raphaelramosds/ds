@@ -4,7 +4,7 @@
  | --------------------------------------------------------
  | Autores: Raphael Ramos
  |
- | µControlador: Atmega328p
+ | µControlador: ATmega2560
  |
  | Consideração: o clock do ATmega2560 eh 16 MHz. Para 
  | fazer com que o tempo de estouro fosse 1s, precisei
@@ -36,7 +36,7 @@ int main() {
   DDRB |= (1 << PB7);  
 
   // Configurar Timer1
-  OCR1A = 0xF424; // 1s faz TCNT1 conta ate 62500 = 0xF424
+  OCR1A = 0xF424; // TCNT1 leva 1s para contar ate 62500 = 0xF424
   TCCR1B |= (1 << WGM12); // Modo CTC
   TCCR1B |= (1 << CS12); // Prescale de 256
   TIMSK1 |= (1 << OCIE1A); // Compare MatchA
