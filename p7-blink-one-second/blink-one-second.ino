@@ -15,9 +15,9 @@
  |
  | Entao, obtive TOP + 1 = 62500 para 
  | 
- | Testouro = 1s = 1000 ms
+ | Testouro = 1s
  | prescale = 256
- | Tosc = 16MHz
+ | Tosc = 10^(-6)/16 s
  |
  | TCTN1 leva 1s para contar ate OCR1A = 62500
  |
