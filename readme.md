@@ -6,6 +6,8 @@
 
 [2] [Lab 1 - Impulso](./p3-impulse/)
 
+[3] [Lab 2 - Conversor ADC](./labs/lab2/)
+
 ## Listas
 
 [1] [Lista 1 - Portas de saída](./assignments/ass1/)
@@ -24,8 +26,10 @@
 
 - [Simulação](https://wokwi.com/projects/376571749121043457)
 
-[7] [Lista 7 - ADC](./assignments/ass7/)
+[7] [Lista 7 - USART](./assignments/ass7/)
 
-- [Simulação](https://wokwi.com/projects/377158964505701377)
+[8] [Lista 8 - SPI](./assignments/ass8/)
+
+
 
 
